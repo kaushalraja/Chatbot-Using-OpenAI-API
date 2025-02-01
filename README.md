@@ -16,4 +16,4 @@ This is a simple chatbot application that uses OpenAI's GPT-3.5 model to generat
 
 
 Clone the repository:
-   git clone https://github.com/kaushalraja/openai-chatbot.git
+   git clone https://github.com/kaushalraja/Chatbot-Using-OpenAI-API.git
